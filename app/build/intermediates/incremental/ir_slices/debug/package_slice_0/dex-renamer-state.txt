@@ -1,0 +1,4 @@
+#Fri Dec 20 15:46:10 WITA 2019
+base.0=/home/whoami/AndroidStudioProjects/MovieCatalogue2/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

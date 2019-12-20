@@ -1,0 +1,86 @@
+<resources>
+	<string name="app_name">Movie Catalogue</string>
+	<string name="title">Judul</string>
+	<string name="release">Peluncuran</string>
+	<string name="genre">Genre</string>
+	<string name="description">Deskripsi</string>
+	<string name="producer">Producer</string>
+	
+	<string-array name="data_title">
+		<item>Boku no Hero Academia</item>
+		<item>Eyeshield 21</item>
+		<item>Gakuen Babysitters</item>
+		<item>Kenja no Mago</item>
+		<item>One Piece</item>
+		<item>One Punch Man</item>
+		<item>Shingeki no Kyojin</item>
+		<item>Shokugeki no Souma</item>
+		<item>Sword Art Online</item>
+		<item>Tanaka-kun wa itsumo Kedaruge</item>
+	</string-array>
+	
+	<string-array name="data_release">
+		<item>April 3, 2016</item>
+		<item>April 5, 2005</item>
+		<item>January 7, 2018</item>
+		<item>April 10, 2019</item>
+		<item>October 20, 1999</item>
+		<item>October 5, 2015</item>
+		<item>April 7, 2013</item>
+		<item>April 4, 2015</item>
+		<item>July 7, 2012</item>
+		<item>April 9, 2016</item>
+	</string-array>
+	
+	<string-array name="data_producer">
+		<item>Bones</item>
+		<item>TV Tokyo</item>
+		<item>Bandai visual</item>
+		<item>-</item>
+		<item>Fuji TV</item>
+		<item>TV Tokyo</item>
+		<item>I.G</item>
+		<item>Dentsu</item>
+		<item>Aniplex</item>
+		<item>Bandai Visual</item>
+	</string-array>
+	
+	<string-array name="data_genre">
+		<item>Action, Adventure, Comedy, Shounen, Super Power</item>
+		<item>Action, comedy, Shounen, Sports</item>
+		<item>Sliece of Life, Comedy, School, Shoujo</item>
+		<item>Action, Comedy, Magic, Romance, Fantasy</item>
+		<item>Action, Adventure, Comedy, Drama, Fantasy, Shounen, Super Power</item>
+		<item>Action, Sci-Fi, Comedy, Parody, Super Power, Supernatural, Seinen</item>
+		<item>Action, Drama, Fantasy, Shounen, Super Power</item>
+		<item>Ecchi, School, Shounen</item>
+		<item>Action, Adventure, Fantasy, Game, Romance</item>
+		<item>Slice of Life, Comedy, School</item>
+	</string-array>
+	
+	<string-array name="data_description">
+		<item>Apa itu pahlawan? Bagi Izuku Midoriya, jawabannya sangatlah sederhana: “Pahlawan adalah seseorang yang selalu dicita-citakan” Dan siapakah pahlawan terbaik? Yah kalau itu, tentu saja sang legenda All Might.</item>
+		<item>Awal dari Eyeshield 21 menceritakan seputar seorang remaja laki-laki lemah bernama Sena Kobayakawa yang memasuki sekolah pilihannya, SMA Deimon, dimana juga merupakan sekolah teman masa kecilnya, Mamori Anezaki yang diterima tahun lalu. Kemampuan fisik Sena yang berada diatas rata-rata hanyalah berlari, dikarenakan saat kecil ia sering disuruh dan dikerjai teman sebayanya yang nakal untuk dibelikan ini itu dalam waktu singkat.</item>
+		<item>Setelah orang tua mereka kecelekaan di pesawat, Ryuuichi dan adiknya Kotarou dirawat oleh kepala sekolah yang belum pernah mereka temui. Ryuuichi menjadi babysitter di tempat penitipan anak yang baru.</item>
+		<item>Ini adalah kisah mengenai seorang lelaki yang meninggal dalam kecelakaan dan terlahir kembali di dunia lain sebagai seorang bayi. Setelah itu, dia dipungut oleh seorang Ahli Sihir Pahlawan bernama Merlin Wolford dan mendapatkan nama Shin.</item>
+		<item>Gol D. Roger dikenal sebagai Raja Bajak Laut , terkuat dan paling terkenal di lautan dan telah berlayar ke Grand Line . Penangkapan dan kematian Roger oleh Pemerintah membawa perubahan di seluruh dunia. Kata-kata terakhirnya sebelum kematiannya mengungkapkan lokasi harta karun terbesar di dunia, yang bernama One Piece. Itu adalah wasiat yang membawa Grand Age of Pirates , pria yang bermimpi untuk menemukan One Piece (yang menjanjikan jumlah yang tidak terbatas untuk kekayaan dan ketenaran ) , dan sangat hal yang paling didambakan gelar untuk orang yang menemukannya , gelar Raja Bajak Laut .</item>
+		<item>Bercerita tentang pemuda bernama Saitama yang terlihat “BIASA,” terlihat tanpa ekspresi, kepala botaknya, fisik yang tidak terlihat bagus. Namun, laki-laki yang terlihat biasa ini, punya masalah yang tidak biasa… Dia adalah pahlawan super yang mencari musuh kuat! Masalahnya, setiap kali Dia bertemu lawan yang terlihat menjanjikan, Dia bisa mengalahkannya dengan satu pukulan.</item>
+		<item>Beberapa ratus tahun yang lalu, umat manusia hampir punah karena raksasa. Raksasa itu bertubuh besar, tidak memiliki intelektual, membenci manusia, dan yang paling buruk, mereka menganggap manusia sebagai makanan. Sisa-sisa manusia yang selamat membangun tembok yang sangat tinggi untuk melindungi mereka dari raksasa-raksasa.</item>
+		<item>Impian dari Yukihira Souma adalah menjadi seorang koki fulltime di restoran ayahnya dan melampaui keterampilan memasak ayahnya. Tapi, setelah Souma lulus SMP, ayahnya yaitu Yukihira Jouichirou, menutup restorannya di Eropa. Meskipun dia merasa down setelah itu, Souma tetap menyimpan semangat bertarungnya yang berasal dari tantangan Jouichirou untuk bertahan di sebuah sekolah kuliner elit di mana hanya 10% dari siswanya lulus.</item>
+		<item>Di masa depan tepatnya pada tahun 2020, telah tercipta permainan daring dunia maya yang tak terpadai atau Virtual Reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) yang dinamakan Sword Art Online, di mana para pemain berinteraksi layaknya di dunia nyata dengan bantuan tekhnologi bernama NerveGear. Ini adalah permainan hidup-mati di mana para pemain tidak dapat keluar dan harus menyelesaikan permainan tersebut.</item>
+		<item>Tanaka adalah seorang yang lesu. Hal yang disenanginya adalah tidur. Tanaka memiliki seorang teman yang baik padanya.</item>
+	</string-array>
+	
+	<string-array name="data_poster">
+		<item>@drawable/bknh</item>
+		<item>@drawable/eyeshield</item>
+		<item>@drawable/gakuenb</item>
+		<item>@drawable/knm</item>
+		<item>@drawable/onepiece</item>
+		<item>@drawable/opm</item>
+		<item>@drawable/snk</item>
+		<item>@drawable/sns</item>
+		<item>@drawable/sao</item>
+		<item>@drawable/tanaka</item>
+	</string-array>
+</resources>

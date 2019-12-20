@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a942afcf643e86adc84635996633fdd6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/whoami/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/107c02f1e2689b194d532dece16865ce/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ec4f992dce0fc5ab38a275cb11f42d71/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/593343e9520bbed77a0bf1ccaa6c7e94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cd20c5fd32bab1f8dd13be99799f553d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d450d09bc5e7057e3a76b1742a9a38d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b8460d226b04310c54279ab60bcb7910/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c21e8ae0e423740c12b58beb1c61900d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c4913427ed60ea64a499459b656f5553/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d61cdd44863f85d9a447ea39e77786a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/190812df56a6e44c2db115f0f5f50c0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/97951adb06cae9efc871bb6070d62e1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b255954817b9a06508f2b62ff11af25f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1b3b202f116b15db9eb4d0876eb3be8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a1ba71900ac5d921855d821823103806/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1c07a73de1f64de772e616c889974fe0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/64dc3d4f2f059716b9719a43b473ca8b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/78d6d6887b008b48ded65005fd05b2d9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/whoami/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f44d4e34f2ef92b1e18cd947116552d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/04a04ce4940a0ac86e1f85e61dcaf60f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4824010aace76af3531cf93af7b46d9b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0ea3ffc9f0b80b7368b3ce327764c6d5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/whoami/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3110bbd7944151c031ac28798dba4b4a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/whoami/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/580f6b22ebbafd015a5fe72a07c32545/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/whoami/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4ded566c5a08bd8c3a2ded6104c479a8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/whoami/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/58b28af1e0f34dfa59850e4d0c557018/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b21a528fe6934de0aa18fbd0555d8432/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:3:2-49
+		INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml
+		ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml
+		ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:5:2-20:16
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/whoami/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/107c02f1e2689b194d532dece16865ce/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/whoami/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/107c02f1e2689b194d532dece16865ce/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1c07a73de1f64de772e616c889974fe0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1c07a73de1f64de772e616c889974fe0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/64dc3d4f2f059716b9719a43b473ca8b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/64dc3d4f2f059716b9719a43b473ca8b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1c07a73de1f64de772e616c889974fe0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:10:3-29
+	android:label
+		ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:8:3-35
+	android:roundIcon
+		ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:9:3-48
+	android:icon
+		ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:7:3-37
+	android:allowBackup
+		ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:6:3-29
+	android:theme
+		ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:11:3-34
+activity#com.blogspot.llrgaming.moviecatalogue.MainActivity
+ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:12:3-18:14
+	android:name
+		ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:13:4-17:20
+action#android.intent.action.MAIN
+ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:14:5-57
+	android:name
+		ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:14:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:16:15-62
+activity#com.blogspot.llrgaming.moviecatalogue.DetailActivity
+ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:19:3-55
+	android:name
+		ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml:19:13-43
+uses-sdk
+INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml
+INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a942afcf643e86adc84635996633fdd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a942afcf643e86adc84635996633fdd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/whoami/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/107c02f1e2689b194d532dece16865ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/whoami/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/107c02f1e2689b194d532dece16865ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ec4f992dce0fc5ab38a275cb11f42d71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ec4f992dce0fc5ab38a275cb11f42d71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/593343e9520bbed77a0bf1ccaa6c7e94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/593343e9520bbed77a0bf1ccaa6c7e94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cd20c5fd32bab1f8dd13be99799f553d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/cd20c5fd32bab1f8dd13be99799f553d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d450d09bc5e7057e3a76b1742a9a38d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d450d09bc5e7057e3a76b1742a9a38d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b8460d226b04310c54279ab60bcb7910/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b8460d226b04310c54279ab60bcb7910/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c21e8ae0e423740c12b58beb1c61900d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c21e8ae0e423740c12b58beb1c61900d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c4913427ed60ea64a499459b656f5553/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c4913427ed60ea64a499459b656f5553/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d61cdd44863f85d9a447ea39e77786a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d61cdd44863f85d9a447ea39e77786a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/190812df56a6e44c2db115f0f5f50c0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/190812df56a6e44c2db115f0f5f50c0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/97951adb06cae9efc871bb6070d62e1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/97951adb06cae9efc871bb6070d62e1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b255954817b9a06508f2b62ff11af25f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b255954817b9a06508f2b62ff11af25f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1b3b202f116b15db9eb4d0876eb3be8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/1b3b202f116b15db9eb4d0876eb3be8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a1ba71900ac5d921855d821823103806/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a1ba71900ac5d921855d821823103806/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1c07a73de1f64de772e616c889974fe0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1c07a73de1f64de772e616c889974fe0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/64dc3d4f2f059716b9719a43b473ca8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/64dc3d4f2f059716b9719a43b473ca8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/78d6d6887b008b48ded65005fd05b2d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/78d6d6887b008b48ded65005fd05b2d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/whoami/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f44d4e34f2ef92b1e18cd947116552d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/whoami/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f44d4e34f2ef92b1e18cd947116552d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/04a04ce4940a0ac86e1f85e61dcaf60f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/04a04ce4940a0ac86e1f85e61dcaf60f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4824010aace76af3531cf93af7b46d9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4824010aace76af3531cf93af7b46d9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0ea3ffc9f0b80b7368b3ce327764c6d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0ea3ffc9f0b80b7368b3ce327764c6d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/whoami/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3110bbd7944151c031ac28798dba4b4a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/whoami/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3110bbd7944151c031ac28798dba4b4a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/whoami/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/580f6b22ebbafd015a5fe72a07c32545/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/whoami/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/580f6b22ebbafd015a5fe72a07c32545/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/whoami/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4ded566c5a08bd8c3a2ded6104c479a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/whoami/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4ded566c5a08bd8c3a2ded6104c479a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/whoami/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/58b28af1e0f34dfa59850e4d0c557018/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/whoami/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/58b28af1e0f34dfa59850e4d0c557018/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b21a528fe6934de0aa18fbd0555d8432/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/whoami/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b21a528fe6934de0aa18fbd0555d8432/AndroidManifest.xml:20:5-44
+INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml
+INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml
+		ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml
+		ADDED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/whoami/AndroidStudioProjects/MovieCatalogue2/app/src/main/AndroidManifest.xml
